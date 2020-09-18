@@ -1,1 +1,15 @@
 /*  Put your CSS Here */
+
+body {
+  background-color: beige;
+}
+
+#box {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-image: url(https://vignette.wikia.nocookie.net/sopranos/images/a/ae/Tonysoprano.jpg/revision/latest/top-crop/width/360/height/360?cb=20080630035659);
+  background-size: 100px;
+  left: 200px;
+  top: 200px;
+}
